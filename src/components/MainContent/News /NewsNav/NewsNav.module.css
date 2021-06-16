@@ -1,0 +1,19 @@
+
+div ul{
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.NewsNav_Ul li{
+    display: inline-block;
+    margin: 10px 20px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: orange;
+    border-radius: 25px;
+    padding: 10px 30px;
+}
+.ActiveNewsLink{
+    color:#8a2be2;
+}

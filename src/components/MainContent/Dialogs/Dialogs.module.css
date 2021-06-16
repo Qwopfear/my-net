@@ -1,0 +1,19 @@
+.Dialogs{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+}
+.Includutiors{
+    text-align: center;
+    margin: 10px;
+    color: #fff;
+
+}
+
+
+.Messages{
+   
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   
+}

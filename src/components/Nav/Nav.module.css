@@ -1,0 +1,22 @@
+.nav{
+    background-color: rgb(233, 145, 44);
+    border-radius: 25px;
+    text-align: center;
+}
+.nav li{
+    display: block;
+}
+.BestFriends{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+}
+img{
+    width: 100%;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+.selected{
+    color: gold;
+}

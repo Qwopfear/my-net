@@ -1,0 +1,7 @@
+.userInfo{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+.Avatar{
+    width: 200px;
+}

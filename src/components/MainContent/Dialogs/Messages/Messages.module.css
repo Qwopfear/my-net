@@ -1,0 +1,16 @@
+.Messages{
+    border: 2px solid red;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.Messages::before{
+    position: absolute;
+    content: '';
+    margin-left: -100px;
+    display: block;
+    height: 400px;
+    width: 2px;
+    background-color: rgba(39, 32, 32, 0.514);
+ }

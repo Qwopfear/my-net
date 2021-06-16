@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Time;
+    src: url(../NewsFonts/TimeFont.ttf);
+}
+
+.NewsHeading{
+    display: flex;
+    color: #fff;
+    margin: 0px 300px;
+    justify-content: space-between;
+}
+.NewsTime, .NewsHeading h1 {
+    border: 6px solid rgb(121, 32, 32);
+    font-family: Time;
+    padding: 5px 25px;
+    color: #1fdc35;
+    background-color: #222;
+    border-radius: 50px;
+    float: bottom;
+}
+.NewsHeading h1 {
+    padding-top: 10px;;
+}
